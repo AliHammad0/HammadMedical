@@ -24,7 +24,7 @@ import ProductDetails from './Pages/SinglePage';
 import Login from './Pages/Login';
 import CreateProduct from './Pages/CreateProduct';
 import BookAppointment from './Pages/BookAppointment';
-import FAQ from './Pages/FAQ.JSX';
+import FAQ from './Pages/FAQ.jsx';
 import Terms from './Pages/Terms';
 import Cart from './Pages/Cart';
 import Profile from './Pages/Profile';
